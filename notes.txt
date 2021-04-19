@@ -1,0 +1,6 @@
+Chat Api notes
+
+go to google.com and search chat-api.com 
+login in and then go to whatsapp QR code then scan now through whatsapp web, after completing your authorization then your status will be activated the status will be generated automatically 
+
+Your API URL and token link its chat API work based on web apps
